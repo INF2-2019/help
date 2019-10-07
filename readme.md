@@ -32,7 +32,7 @@ Toda correção em que você estiver trabalhando deve também estar centralizada
 
 Code Review, em brasiliense, revisão se código, é uma prática importante para manter a qualidade do código e padronização do projeto. Ela consiste na revisão do seu código por membros da equipe antes dele ser mesclado com o progresso atual do projeto. Isso evita conflitos e garante um código mais homogêneo e menos falho.
 
-_Verifique o `CodeReview.md` do repositório._
+_Verifique o [CodeReview.md](CodeReview.md) no repositório._
 
 ## Links uteis
 
