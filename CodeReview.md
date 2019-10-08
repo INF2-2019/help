@@ -2,7 +2,7 @@
 
 ## O que é
 
-Code review é uma prática de revisão de código muito utilizada em projetos open source ou em projetos empresariais. Ela consiste nos membros do time revisarem o código de um cólega antes de integrá-lo a base de código.
+Code review é uma prática de revisão de código muito utilizada em projetos open-source ou em projetos empresariais. Ela consiste em os membros do time revisarem o código de um colega antes de integrá-lo à base de código.
 
 ## O que é um Pull Request (PR)
 
@@ -54,4 +54,3 @@ Itens que você deve checar antes de abrir o PR ou ao revisar o PR de outro memb
 
 1. Segurança
 2. Usabilidade
-
