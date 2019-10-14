@@ -41,3 +41,5 @@ Tutorial de Git básico: [aqui](https://rogerdudler.github.io/git-guide/index.pt
 Tutorial de Git e GitHub da RocketSeat: [aqui](https://youtu.be/2alg7MQ6_sI)
 
 Git Kraken GUI pra quem não é fã do terminal ou prefere interface gráfica: [aqui](https://www.gitkraken.com/)
+
+Pull Request Inútil
