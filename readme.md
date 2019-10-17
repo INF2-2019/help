@@ -34,6 +34,12 @@ Code Review, em brasiliense, revisão de código, é uma prática importante par
 
 _Verifique o [code-review](code-review/README.md) no repositório._
 
+## `EditorConfig`
+
+O [`EditorConfig`](https://editorconfig.org/) é um projeto de plugin para padronização de formatação que é compatível através de múltiplos editores e IDEs.
+
+Mais sobre o plugin `EditorConfig` em [netbeans-editorconfig](netbeans-editorconfig/README.md)
+
 ## Links úteis
 
 Tutorial de Git básico: [aqui](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
