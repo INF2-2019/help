@@ -1,4 +1,4 @@
-# Adicionando EditorConfig no NetBeans
+# Adicionando EditorConfig na sua IDE
 
 O [`EditorConfig`](https://editorconfig.org/) é um projeto de plugin para padronização de formatação que é compatível através de múltiplos editores e IDEs.
 
