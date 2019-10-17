@@ -32,7 +32,7 @@ Toda correção em que você estiver trabalhando deve também estar centralizada
 
 Code Review, em brasiliense, revisão de código, é uma prática importante para manter a qualidade do código e a padronização do projeto. Ela consiste na revisão do seu código por membros da equipe antes de ele ser mesclado com o progresso atual do projeto. Isso evita conflitos e garante um código mais homogêneo e menos falho.
 
-_Verifique o [CodeReview.md](CodeReview.md) no repositório._
+_Verifique o [code-review](code-review/README.md) no repositório._
 
 ## Links úteis
 
@@ -41,3 +41,5 @@ Tutorial de Git básico: [aqui](https://rogerdudler.github.io/git-guide/index.pt
 Tutorial de Git e GitHub da RocketSeat: [aqui](https://youtu.be/2alg7MQ6_sI)
 
 Git Kraken GUI pra quem não é fã do terminal ou prefere interface gráfica: [aqui](https://www.gitkraken.com/)
+
+Tutorial de Materialize: [aqui](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGJxKF3ShplF8nMuuxldlEk)
