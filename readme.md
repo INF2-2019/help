@@ -38,7 +38,7 @@ _Verifique o [code-review](code-review/README.md) no repositório._
 
 O [`EditorConfig`](https://editorconfig.org/) é um projeto de plugin para padronização de formatação que é compatível através de múltiplos editores e IDEs.
 
-Mais sobre o plugin `EditorConfig` em [netbeans-editorconfig](netbeans-editorconfig/README.md)
+Mais sobre o plugin `EditorConfig` em [netbeans-editorconfig](editorconfig/README.md)
 
 ## Links úteis
 
